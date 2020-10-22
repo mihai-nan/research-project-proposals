@@ -56,9 +56,13 @@ Over time, many datasets have been proposed for this problem. Some of the most i
 
 ## References
 [1]  Jake K Aggarwal and Michael S Ryoo. **Human activity analysis:  A review**. *ACM Computing Surveys (CSUR)*, 43(3):1–43, 2011.
+
 [2] Lea, C., Flynn, M. D., Vidal, R., Reiter, A., and Hager, G. D. (2017). **Temporal convolutional networks for action segmentation and detection**.*In proceedings of the IEEE Conference on Computer Vision and Pattern Recognition*, pages 156–165
+
 [3] Du, Y., Wang, W., and Wang, L. (2015). **Hierarchical recurrent neural network for skeleton based action recognition**. *In Proceedings of the IEEE conference on computer vision and pattern recognition*, pages 1110–1118.
+
 [4] Papadopoulos, K., Ghorbel, E., Aouada, D., and Ottersten, B.(2019). **Vertex feature encoding and hierarchical temporal modeling in a spatial-temporal graph convolutional network for action recognition**. *arXiv preprint* arXiv :1912.09745.
+
 [5] Carreira, J., & Zisserman, A. (2017). **Quo vadis, action recognition? a new model and the kinetics dataset**. *In proceedings of the IEEE Conference on Computer Vision and Pattern Recognition* (pp. 6299-6308).
 
 - Mihai Trascau, Mihai Nan, Adina Magda Florea: **Spatio-Temporal Features in Action Recognition Using 3D Skeletal Joints**. *Sensors 19*(2): 423 (2019)
